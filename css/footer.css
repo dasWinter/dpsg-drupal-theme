@@ -1,0 +1,22 @@
+.footer-column div.block {
+
+}
+
+.footer-column div.block h2 {
+
+background: 				url(../img/background/bg_boxed_heading.png) repeat-x left top #F9F9F9;
+border-bottom:				1px solid #FFFFFF;
+font-weight:				bold;
+color: 						#081E2E;
+font:						900 0.95em Arial;
+margin: 					0;
+padding:					0.65em 0 0.5em 4.5em;
+}
+
+.footer-column div.block div.content {
+background: 				url(../img/background/bg_boxed_content.png) repeat-x left top transparent;
+margin: 					0;
+min-height: 				6em;
+padding:					1em 0.5em 0.5em;
+}
+

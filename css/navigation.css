@@ -1,0 +1,117 @@
+#navigation {
+	color:						#ffffff;
+	background:					#002143 url(../img/background/bg_mainnav.png) repeat-x;
+	border-top:					1px solid #002143;
+	border-bottom:				1px solid #002143;
+	font-size:					16px;
+	height:						55px;
+}
+
+#main_mavigation { 
+	float: 				 	 	left;
+	width:						80em;
+}
+#main_mavigation ul { 
+	list-style: 				none; 
+	padding:					0;
+	margin:						0;
+}
+
+#main_mavigation ul li {
+	float:						left;
+	display: 					block;
+	background:					#002143 url(../img/background/bg_mainnav.png) repeat-x;
+	padding:					0;
+	margin:						0;
+}
+
+#main_mavigation ul li a {
+	font: 						small-caps 300 1.1em/2.2 Verdana, Helvetica, Arial, sans-serif;
+	border-left: 				1px solid #002143;
+	text-decoration: 			none;
+	color: 						#FFFFFF;
+	width:						6em;
+	text-align: 				center;
+	float: 						left;
+	display: 					block;
+	padding:					0.4em;
+	letter-spacing:				0;
+}
+	
+#main_mavigation ul li a:link
+#main_mavigation ul li a:visited,
+#main_mavigation ul li a:focus,
+#main_mavigation ul li a:hover,
+#main_mavigation ul li a:active {
+	background:					#002143;
+}
+	
+#main_mavigation ul li.active strong,
+#main_mavigation ul li.active a:link,
+#main_mavigation ul li.active a:visited,
+#main_mavigation ul li.active a:focus,
+#main_mavigation ul li.active a:hover,
+#main_mavigation ul li.active a:active
+#main_mavigation ul li.active-trail strong,
+#main_mavigation ul li.active-trail a:link,
+#main_mavigation ul li.active-trail a:visited,
+#main_mavigation ul li.active-trail a:focus,
+#main_mavigation ul li.active-trail a:hover,
+#main_mavigation ul li.active-trail a:active { 
+	background:					#480D14 url(../img/background/bg_mainnav_active.png) repeat-x; 
+}
+
+/* ------------------------------------------------------------------- */
+
+#nav_context {
+	clear:						both;
+	border-top:					#000000 1px solid;
+	color:						#ffffff;
+	background:					#002143;
+	border-bottom:				1px solid #002143;
+	font-size:					12px;
+	height:						34px;
+}
+
+#nav_context ul { 
+	list-style: 				none; 
+	padding:					0; 
+	margin:						0;
+}
+
+#nav_context ul li {
+	float:						left;
+	display: 					block;
+	background:					#002143;
+	padding:					0;
+	margin:						0;
+}
+
+#nav_context ul li a {
+	font: 						small-caps 300 1.1em/2.2 Verdana, Helvetica, Arial, sans-serif;
+	border-left: 				1px solid #002143;
+	text-decoration: 			none;
+	color: 						#FFFFFF;
+	text-align: 				center;
+	float: 						left;
+	display: 					block;
+	padding:					2px;
+	letter-spacing:				0;
+}
+	
+#nav_context ul li a:link
+#nav_context ul li a:visited,
+#nav_context ul li a:focus,
+#nav_context ul li a:hover,
+#nav_context ul li a:active {
+	background:					#002143;
+}
+	
+#nav_context ul li.active strong,
+#nav_context ul li.active a:link,
+#nav_context ul li.active a:visited,
+#nav_context ul li.active a:focus,
+#nav_context ul li.active a:hover,
+#nav_context ul li.active a:active { 
+	background:					#480D14; 
+}

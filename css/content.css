@@ -1,0 +1,13 @@
+#content {
+
+}
+
+#content a {
+text-decoration:			none;
+color:						#006699;
+}
+
+#content a:hover {
+color:						#DD6940;
+text-decoration:			underline;
+}
