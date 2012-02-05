@@ -1,0 +1,72 @@
+body {
+font-family:				Verdana, Helvetica, Arial, sans-serif;
+font-size:					12px;
+background-color:			#ffffff;
+color:					 	#444444;
+line-height:				16px;
+}
+
+hr {
+color: 						#666666;
+height: 					1px;
+}
+
+img {
+border: 					0px;
+}
+
+#site-slogan {
+color: 						#081E2E;
+font-size:					20px;
+font-weight:			 	bold;
+margin-top:					10px;
+}
+
+h1.title {
+    background: 			url("../img/background/bg_wegzeichen_start.png") no-repeat scroll left center transparent;
+    padding-left: 			38px;
+    position: 				static;
+}
+
+
+.sidebar div.block {
+
+}
+
+.sidebar div.block h2 {
+font-weight:				bold;
+color: 						#081E2E;
+font:						900 0.95em Arial;
+margin: 					0;
+padding:					0.65em 0 0.5em 4.5em;
+/*background: 				url(../img/background/bg_boxed_heading.png) repeat-x left top #F9F9F9;
+border-bottom:				1px solid #FFFFFF;*/
+}
+
+div.block-header {
+background: 				url(../img/background/bg_boxed_heading.png) repeat-x left top #F9F9F9;
+border-bottom:				1px solid #FFFFFF;
+
+}
+
+.sidebar a, .footer-column a,
+.sidebar a:link, .footer-column a:link,
+.sidebar a:visited, .footer-column a:visited,
+.sidebar a:focus, .footer-column a:focus,
+.sidebar a:active, .footer-column a:active {
+color:						#002F5E;
+text-decoration:			none;
+}
+
+.sidebar a:hover, .footer-column a:hover {
+color:						#002F5E;
+text-decoration:			underline;
+}
+
+.sidebar div.block div.content {
+background: 				url(../img/background/bg_boxed_content.png) repeat-x left top transparent;
+margin: 					0;
+min-height: 				6em;
+padding:					1em 0.5em 0.5em;
+}
+

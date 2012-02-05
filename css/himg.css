@@ -1,0 +1,13 @@
+/*
+ * 
+ * define Icons for sidebar blocks here (skinr required)
+ * 
+ *
+ *
+.block-header h2.xxx {
+	background-image:		url(../img/icons/bg_btnXXX.png);
+}
+*/
+
+div.stufen .block-header h2 {
+	background:		url(../img/icons/bg_btnStufen.png) no-repeat 3px center;

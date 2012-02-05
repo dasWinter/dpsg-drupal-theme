@@ -1,0 +1,143 @@
+body {
+	background:					url(../img/background/bg_body.png) repeat-x left top #F2F3F4;
+	text-align:					center;
+}
+
+#page {
+	margin:						auto;
+	text-align:					left;
+	position:					relative;
+	width:						100%;
+}
+
+#header {
+	padding:					0px;
+}
+
+#inner-page {
+	background-color:			#FFFFFF;
+	display:					inline-block;
+	width:						100%;
+}
+
+#logo {
+ 	float:						left;
+    margin-top: 				8px;
+}
+
+
+#name-and-slogan {
+	float:						left;
+	margin-bottom: 				5px;
+
+}
+
+#headerright {
+	float: 						right;
+	height: 					90px;
+	width: 						294px;
+	background:					url(../img/navibild.jpg) no-repeat center center;
+	
+}
+
+#navigation {
+	clear:						both;
+	border:						1px solid;
+}
+
+div#search {
+	float: 						right;
+	margin:						0.8em;
+}
+
+#main {
+	margin-top:					0.5%;
+}
+
+#sidebar-first {
+	float:						left;
+	width:						15%;
+	margin-left:				0.4%;
+}
+
+#sidebar-second {
+	float:						right;
+	width:						15%;
+	margin-right:				0.4%;
+}
+
+#content {
+	float:						left;
+	max-width:					65%;
+	padding:					10px 2% 0 2%;
+}
+
+#footer {
+	clear:						both;
+}
+
+.footer-column {
+	width:						23.8%;
+	height:						100%;
+	margin:						0.4%;
+	padding:					0.2%;
+}
+
+#footer-firstcolumn {
+	float:						left;
+}
+
+#footer-secondcolumn {
+	float:						left;
+}
+
+#footer-thirdcolumn {
+	float:						left;
+}
+
+#footer-fourthcolumn {
+	float:						right;
+}
+
+#footer-final {
+	clear:						both;
+	height:						80px;
+	color:						#FFFFFF;
+	background: 				url(../img/background/bg_footer.png) repeat-x scroll 0 0 #002447; 
+	padding:					1em;
+}
+
+#footer-final a {
+	text-decoration:			none;
+	color:						#FFFFFF;
+	font-weight:				bold;
+}
+
+#footer-final a:hover {
+	text-decoration:			underline;
+}
+
+#footer-final ul {
+	list-style: 				none; 
+	padding:					0; 
+	margin:						0;
+}
+
+#footer-final ul li {
+	float:						left;
+	display: 					block;
+	padding:					0;
+	margin:						0;
+	border-left: 				#FFFFFF 1px;
+}
+
+#footer-final ul:first-child {
+	border-left: 				none;
+}
+
+#footer-close {
+	clear:						both;
+	background: 				url(../img/background/bg_wegzeichen_ziel.png) no-repeat right bottom transparent;
+	height:						36px;
+	padding:					1em;
+}
