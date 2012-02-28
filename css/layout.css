@@ -7,7 +7,7 @@ body {
 	margin:						auto;
 	text-align:					left;
 	position:					relative;
-	width:						100%;
+	width:						980px;
 }
 
 #header {
@@ -54,23 +54,26 @@ div#search {
 	margin-top:					0.5%;
 }
 
+#content {
+	float:						left;
+	position:					relative;
+	/*display:					inline;*/
+	padding:					10px 10px 0 10px;
+}
 #sidebar-first {
 	float:						left;
-	width:						15%;
-	margin-left:				0.4%;
+	position:					relative;
+	width:						225px;
+	margin-left:				10px;
 }
 
 #sidebar-second {
 	float:						right;
-	width:						15%;
-	margin-right:				0.4%;
+	position:					relative;
+	width:						225px;
+	margin-right:				10px;
 }
 
-#content {
-	float:						left;
-	max-width:					65%;
-	padding:					10px 2% 0 2%;
-}
 
 #footer {
 	clear:						both;
