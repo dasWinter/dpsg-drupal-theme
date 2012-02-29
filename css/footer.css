@@ -24,6 +24,14 @@
 	margin-left: 				4px;
 }
 
-#footer-final .block-menu ul.menu li.first-leaf {
+#footer-final .block-menu ul.menu li.leaf:before {
+	content:					" | ";
+}
+
+#footer-final .block-menu ul.menu li.first {
 	margin-left: 				0px;
+}
+
+#footer-final .block-menu ul.menu li.first:before {
+	content:					none;
 }

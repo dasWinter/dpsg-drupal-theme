@@ -114,7 +114,7 @@
 	<?php endif; ?>
 
 	<div id="main">
-
+		
 		<div id="content">
 			<?php if ($breadcrumb): ?>
 				<div id="breadcrumb"><?php print $breadcrumb; ?></div>
@@ -133,7 +133,6 @@
         		<?php print $feed_icons; ?>
       		</div> <!-- /#inner-content -->
 		</div> <!-- /#content -->
-    	
     	
     	<?php if ($page['sidebar_first']): ?>
         	<div id="sidebar-first" class="column sidebar">      		
