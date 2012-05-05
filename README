@@ -1,3 +1,8 @@
+Changes in Beta3:
+	- renamed himg.css to costum.css
+	- Added new stylesheet classes for links (see css/costum.css)
+
+
 Changes in Beta2:
 	- Background removed from header
 	- Fixed layout of the navbar

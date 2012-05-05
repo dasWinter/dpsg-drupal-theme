@@ -1,7 +1,7 @@
 name = DPSG
 description = Ein Drupal 7.x-Theme nach dem Corporate-Design der DPSG.
 screenshot = screenshot.png
-version = 7.x-1.0-beta2
+version = 7.x-1.0-beta3
 core = 7.x
 engine = phptemplate
 
@@ -10,7 +10,7 @@ stylesheets[all][] = css/layout.css
 stylesheets[all][] = css/navigation.css
 stylesheets[all][] = css/content.css
 stylesheets[all][] = css/footer.css
-stylesheets[all][] = css/himg.css
+stylesheets[all][] = css/costum.css
 
 screenshot = screenshot.png
 

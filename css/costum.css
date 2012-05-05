@@ -1,0 +1,39 @@
+/*
+ * 
+ * define Icons for sidebar blocks here (skinr required)
+ * 
+ *
+ *
+.block-header h2.xxx {
+	background-image:		url(../img/icons/bg_btnXXX.png);
+}
+*/
+
+div.stufen .block-header h2 {
+	background:			url(../img/icons/bg_btnStufen.png) no-repeat 3px center;
+}
+
+a.pdf {
+	padding-right: 		14px;
+	background: 		url('../img/icons/bg_btnPDF.png') right center no-repeat;
+}
+
+a.print {
+	padding-right: 		14px;
+	background: 		url('../img/icons/bg_btnPrint.png') right center no-repeat;
+}
+
+a.ext {
+	padding-right: 		14px;
+	background: 		url('../img/icons/bg_btnExt.png') right center no-repeat;
+}
+
+a.mail {
+	padding-right: 		14px;
+	background: 		url('../img/icons/bg_btnMail.png') right center no-repeat;
+}
+
+a.ext {
+	padding-right: 		14px;
+	background: 		url('../img/icons/bg_btnExt.png') right center no-repeat;
+}
